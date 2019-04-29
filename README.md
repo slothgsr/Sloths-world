@@ -1,2 +1,2 @@
 # Sloths-world
-Welcome to my world!
+Welcome to Sloths world!
